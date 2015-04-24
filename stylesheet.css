@@ -1,4 +1,16 @@
 p{
 	text-align: center;
-	
+	background-color: #ffffff;
+	border-radius: 5px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin-top: 70px;
+}
+html {
+	background-color: #46BC8D;
+}
+.controls {
+	text-align: center;
 }
